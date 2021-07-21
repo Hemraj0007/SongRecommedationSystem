@@ -1,4 +1,4 @@
-# Spotify Recommender
+# Song Recommender
 
 A music recommendation system
 
